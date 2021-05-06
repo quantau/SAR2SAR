@@ -9,10 +9,6 @@ A study with synthetic speckle noise is presented to compare the performances of
 ## Resources
 - [Paper (ArXiv)](https://arxiv.org/abs/2006.15037)
 - [IEEE JSTARS publication](https://ieeexplore.ieee.org/document/9399231)
-The material is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom ParisTech, an Institut Mines Télécom school.
-All rights reserved.
-
-
 
 To cite the article:
 ```
@@ -22,3 +18,11 @@ in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sens
 vol. 14, pp. 4321-4329, 2021, doi: 10.1109/JSTARS.2021.3071864.
 
 ```
+
+## Licence
+The material is made available under the **GNU General Public License v3.0**: Copyright 2020, Emanuele Dalsasso, Loïc Denis, Florence Tupin, of LTCI research lab - Télécom ParisTech, an Institut Mines Télécom school.
+All rights reserved.
+
+
+
+
